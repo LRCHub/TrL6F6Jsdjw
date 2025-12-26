@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕の生きている意味",
+  "base_artist": "Qyoto",
+  "createdAt": "2025-12-26T03:58:52.092765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕の生きている意味",
+      "artist": "Qyoto",
+      "has_synced": false,
+      "path": "select/pl_01_僕の生きている意味_Qyoto.txt"
+    }
+  ]
+}
